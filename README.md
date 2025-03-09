@@ -41,9 +41,17 @@ This project is open-source and available under the MIT License.
 ## 💡 Contributions
 Feel free to fork this repository, improve the code, and submit a pull request!
 
-## 📞 Contact
-For any queries or collaboration, reach out to me at **atharvakore@example.com** or connect on GitHub.
+## 📖 What I Learned
+Working through these exercises has helped me develop a deeper understanding of:
+- **Python Basics & Syntax** – Strengthening my grasp on fundamental concepts like loops, conditionals, and functions.
+- **Data Structures & Algorithms** – Implementing lists, dictionaries, and recursion for problem-solving.
+- **Cryptography & Security** – Learning about encryption, hashing, and secure authentication techniques.
+- **Networking & Web Security** – Exploring ARP spoofing, TCP/IP concepts, DNS security, and HTTP protocols.
+- **Regex & String Manipulation** – Gaining experience in pattern matching and text processing.
+- **Debugging & Problem-Solving** – Enhancing my ability to break down problems and find efficient solutions.
 
+These exercises have significantly improved my coding proficiency and problem-solving approach, making me more confident in tackling real-world challenges!
 ---
 Happy Coding! 🚀
+
 
